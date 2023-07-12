@@ -1,0 +1,11 @@
+{
+  "latestVer": "1.0",
+  "updateTime": "2023/7/11 21:42:37",
+  "updateDesc": "v1.0版本, 重构代码",
+  "updateDocs": "https://www.projectzomboid.com/docs/updatelog/230711-1.html",
+  "downloadUrl": "https://raw.githubusercontent.com/Miku39c/PZAssistant/update/README.md",
+  "gameVerLimit": [
+    {"min:": "41.78.16"},
+    {"max:": "41.78.16"}
+  ]
+}
